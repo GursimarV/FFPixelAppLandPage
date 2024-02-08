@@ -46,7 +46,19 @@ h2{
 
 h3{
     font-family: Sumana;
+    font-size: 14pt;
     color: black;
+}
+
+.p{
+   line-height: 1.6;
+}
+
+
+hr{
+    width: 50%;
+    height: 2px;
+    background-color:black;
 }
 
 .container {
