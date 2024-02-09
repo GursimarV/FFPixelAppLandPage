@@ -1,4 +1,5 @@
-@import url('https://fonts.google.com/specimen/Sumana');
+@import url('https://fonts.googleapis.com/css2?family=Sumana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sumana:wght@700&display=swap');
 
 .column 
 {
@@ -40,25 +41,21 @@
 }
 
 h2{
-    color:whitesmoke;
+    text-align: center;
+    color:white;
     margin-top: 24px;
+    font-family: 'Sumana', serif;
 }
 
 h3{
-    font-family: Sumana;
+    font-family: 'Sumana Bold', serif
+    text-decoration: underline;
     font-size: 14pt;
     color: black;
 }
 
 .p{
    line-height: 1.6;
-}
-
-
-hr{
-    width: 50%;
-    height: 2px;
-    background-color:black;
 }
 
 .container {
